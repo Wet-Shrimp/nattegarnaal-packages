@@ -1,0 +1,15 @@
+{
+  "name": "com.wetshrimp.nattegarnaalutils",
+  "version": "1.0.0",
+  "displayName": "NatteGarnaalUtils",
+  "description": "Natte Garnaal Utils is a package which includes everything necessary for the Wet Shrimp team to create their games!",
+  "unity": "6000.6",
+  "keywords": [
+    "fun"
+  ],
+  "author": {
+    "name": "PAPERMASK",
+    "url": "https://www.wetshrimp.com",
+    "email": "info@wetshrimp.com"
+  }
+}
