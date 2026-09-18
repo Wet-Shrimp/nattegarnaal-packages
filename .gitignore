@@ -119,3 +119,29 @@ ProjectSettings/VFXManager.asset
 
 # Keep .gitignore itself tracked
 !.gitignore
+Assets/InputSystem_Actions.inputactions
+Assets/InputSystem_Actions.inputactions.meta
+Assets/Scenes/SampleScene.unity
+Assets/Scenes/SampleScene.unity.meta
+Assets/Settings.meta
+Assets/Settings/DefaultVolumeProfile.asset
+Assets/Settings/DefaultVolumeProfile.asset.meta
+Assets/Settings/Mobile_Renderer.asset
+Assets/Settings/Mobile_Renderer.asset.meta
+Assets/Settings/Mobile_RPAsset.asset
+Assets/Settings/Mobile_RPAsset.asset.meta
+Assets/Settings/PC_Renderer.asset
+Assets/Settings/PC_Renderer.asset.meta
+Assets/Settings/PC_RPAsset.asset
+Assets/Settings/PC_RPAsset.asset.meta
+Assets/Settings/SampleSceneProfile.asset
+Assets/Settings/SampleSceneProfile.asset.meta
+Assets/Settings/UniversalRenderPipelineGlobalSettings.asset
+Assets/Settings/UniversalRenderPipelineGlobalSettings.asset.meta
+ProjectSettings/PhysicsCoreProjectSettings2D.asset
+ProjectSettings/ProjectAuditorSettings.asset
+ProjectSettings/SceneTemplateSettings.json
+ProjectSettings/ShaderGraphSettings.asset
+ProjectSettings/URPProjectSettings.asset
+ProjectSettings/XRSettings.asset
+.gitattributes
